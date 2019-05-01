@@ -1,6 +1,6 @@
 # visual-diff-tool
 
-This is repo is a collection of thoughts and technical design documents for a tool which would allow website owners to see visual diffs of their site changes before a release.
+This is repo is a collection of thoughts and technical design documents for a tool which would allow website owners to see visual diffs of their site changes before a release or when merging a PR.
 
 **Goals:**
 
