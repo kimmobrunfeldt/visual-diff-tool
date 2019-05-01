@@ -46,4 +46,4 @@ https://visualregressiontesting.com/tools.html
 
 **Branching**
 
-![branches.svg]
+![](branches.svg)
