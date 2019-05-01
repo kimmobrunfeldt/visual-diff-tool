@@ -36,7 +36,7 @@ https://visualregressiontesting.com/tools.html
 * https://github.com/facebookarchive/huxley and https://github.com/facebookarchive/huxley/issues/78
 
 
-## Diagrams
+## Diagrams and random ideas
 
 
 **Usage flow**
@@ -47,3 +47,14 @@ https://visualregressiontesting.com/tools.html
 **Branching**
 
 ![](branches.svg)
+
+
+**S3 storage**
+
+Format could be `<env>/<version>/<file>`. Where env is `master`, version is the datetime (?), and file depends on the stored info.
+
+Files could be:
+
+* metadata.json, containing all site pages and paths, and possible metadata
+* kimmobrunfeldt_visual-diff-tool_1200x800.png: a screenshot of this page
+
